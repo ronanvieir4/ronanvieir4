@@ -1,5 +1,3 @@
-## Olá, eu sou Ronan Vieira!
-
 🖥️ Cursando Análise e Desenvolvimento de Sistemas<br>
 📚 Aprendendo algumas linguagens de programação<br>
 
